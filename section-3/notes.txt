@@ -7,3 +7,5 @@ data types:
     6. Tuples- tup  (ordered immutable sequence of objects) (10, 'hello', 200.4)
     7. Sets-  set  (unordered collection of unique objects) {'a', 'b'}
     8. Booleans- bool  (True/False)
+
+=> type(variableName) returns the data type of the variable
