@@ -9,3 +9,6 @@ data types:
     8. Booleans- bool  (True/False)
 
 => type(variableName) returns the data type of the variable
+=> index            0  1  2  3  4
+   character        h  e  l  l  o
+   reverse index    0 -4 -3 -2 -1
