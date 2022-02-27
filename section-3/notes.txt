@@ -1,0 +1,9 @@
+data types:
+    1. Integer-  int
+    2. Floating Point-  float
+    3. Strings- str
+    4. Lists-  list  (ordered sequence of objects) [10, 'hello', 200.4]
+    5. Dictionaries- dict  (unordered key:value pairs) {"name": "Felix"}
+    6. Tuples- tup  (ordered immutable sequence of objects) (10, 'hello', 200.4)
+    7. Sets-  set  (unordered collection of unique objects) {'a', 'b'}
+    8. Booleans- bool  (True/False)
