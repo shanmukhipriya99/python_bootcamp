@@ -12,3 +12,7 @@ data types:
 => index            0  1  2  3  4
    character        h  e  l  l  o
    reverse index    0 -4 -3 -2 -1
+=> slicing syntax: [start:stop:step]
+                    start: index for the slice start
+                    stop: index you will go up to (but not include)
+                    step: size of the jump
